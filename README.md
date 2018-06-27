@@ -118,16 +118,6 @@ If you or your company would like to sponsor a custom feature, please let me kno
 via email (see contact section). Custom features are developed exclusively for the
 client and not committed to the public repo. 
 
-## Donations
-
-Pgweb is free and open source software, there's no plan to make a business out of it.
-If you wish to support the development, you can send a donation of any size using
-the following platforms:
-
-- Paypal: dan.sosedoff@gmail.com
-- Bitcoin: 1qAGohEhuNEkJEhHyEQfLgXAwY7dWRhmU
-
-Any contribution is much appreciated. 
 
 ## Contact
 
